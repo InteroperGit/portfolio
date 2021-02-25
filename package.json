@@ -1,0 +1,11 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "serve": "parcel index.html -p 8080"
+  },
+  "author": "",
+  "license": "ISC"
+}
